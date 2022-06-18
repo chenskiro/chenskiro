@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+<p align="center">
+    <img src="https://stats.toshiki.top/api?show_bg=1&username=DTpeel" alt="andatoshiki's profile readme stats"></img>
+</p>
 <!--
 **DTpeel/DTpeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
