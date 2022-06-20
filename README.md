@@ -8,9 +8,6 @@
     <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="made with markdown badge" />
  </a>
     </a>
-  <a href="https://github.com/DTpeel" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/for-sharks.svg" alt="open source badge" />
- </a>
  <br />
  <a href="https://github.com/DTpeel" target="_blank" rel="noopener noreferrer">
     <img src="https://forthebadge.com/images/badges/check-it-out.svg" alt="check it out badge" />
