@@ -32,7 +32,12 @@
 > 这是我好友，不关注一波吗？
 
 > ![](https://avatars.githubusercontent.com/u/101481353?v=4 "andatoshiki")
+
+** [Anda Toshiki](https://github.com/andatoshiki) **
+
 <!--
+
+
 **DTpeel/DTpeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
