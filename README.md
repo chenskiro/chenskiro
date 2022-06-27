@@ -23,10 +23,10 @@
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=DTpeel&theme=xcode" /> </div>
 
-this is my friend，Do not follow?
-这是我好友，不关注一波吗？
+> this is my friend，Do not follow?
+> 这是我好友，不关注一波吗？
 
-![](https://raw.githubusercontent.com/DTpeel/DTpeel/main/Screenshot_20220618_182853_edit_96260958621044.jpg "andatoshiki")
+> ![](https://raw.githubusercontent.com/DTpeel/DTpeel/main/Screenshot_20220618_182853_edit_96260958621044.jpg "andatoshiki")
 <!--
 **DTpeel/DTpeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
