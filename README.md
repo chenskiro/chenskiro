@@ -31,7 +31,7 @@
 
 > 这是我好友，不关注一波吗？
 
-> ![](https://raw.githubusercontent.com/DTpeel/DTpeel/main/Screenshot_20220618_182853_edit_96260958621044.jpg "andatoshiki")
+> ![](https://avatars.githubusercontent.com/u/101481353?v=4 "andatoshiki")
 <!--
 **DTpeel/DTpeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
