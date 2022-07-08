@@ -33,7 +33,7 @@
 
 <img src=https://avatars.githubusercontent.com/u/101481353?v=4 width=50 />
 
-** [Anda Toshiki](https://github.com/andatoshiki) **
+**[Anda Toshiki](https://github.com/andatoshiki)**
 
 <!--
 
