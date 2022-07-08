@@ -33,7 +33,7 @@
 
 > ![](https://avatars.githubusercontent.com/u/101481353?v=4 "andatoshiki")
 
-** [Anda Toshiki](https://github.com/andatoshiki) **
+** [Anda Toshiki](https://github.com/andatoshiki 50x50) **
 
 <!--
 
