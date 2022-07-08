@@ -31,7 +31,7 @@
 
 > 这是我好友，不关注一波吗？
 
-<img src=“https://avatars.githubusercontent.com/u/101481353?v=4” width=50% />
+<img src=“https://avatars.githubusercontent.com/u/101481353?v=4” width=“50” />
 
 ** [Anda Toshiki](https://github.com/andatoshiki) **
 
