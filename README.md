@@ -32,11 +32,10 @@ contact me
 email 邮箱
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chenskinn@gmail.com)
-[![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)](mailto:chen_skin@icloud.com)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:chenskiro@outlook.com)
 [![Tencent QQ](https://img.shields.io/badge/Tencent%23QQ-%2312B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](mailto:3279587648@qq.com)
-[![Huawei](https://img.shields.io/badge/Huawei-%23FF0000.svg?style=for-the-badge&logo=huawei&logoColor=white)](mailto:chenskiro@petalmail.com)
-
+[![Huawei](https://img.shields.io/badge/Huawei-%23FF0000.svg?style=for-the-badge&logo=huawei&logoColor=white)](mailto:chenskiro@petalmail.com)(不常用)
+[![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)](mailto:chen_skin@icloud.com)(不常用)
 
 ### 绝对不是在摸鱼o(´^｀)o 
 
