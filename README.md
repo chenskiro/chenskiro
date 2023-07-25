@@ -4,7 +4,7 @@
   <a href="https://github.com/DTpeel" target="_blank" rel="noopener noreferrer">
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love badge" />
  </a>
-  <a href="https://github.com/DTpeel" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/chenskiro" target="_blank" rel="noopener noreferrer">
     <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="made with markdown badge" />
  </a>
     </a>
