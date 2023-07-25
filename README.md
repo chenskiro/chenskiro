@@ -1,7 +1,7 @@
 ### Hi there 👋
  <!--小图标 -->
 <p align="center">
-  <a href="https://github.com/DTpeel" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/chenskiro" target="_blank" rel="noopener noreferrer">
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love badge" />
  </a>
   <a href="https://github.com/chenskiro" target="_blank" rel="noopener noreferrer">
@@ -12,7 +12,7 @@
 
 </p>
 <p align="center">
-    <img src="https://stats.toshiki.top/api?show_bg=1&username=DTpeel" alt="andatoshiki's profile readme stats"></img>
+    <img src="https://stats.toshiki.top/api?show_bg=1&username=chenskiro" alt="andatoshiki's profile readme stats"></img>
 </p>
 
 contact me
@@ -39,9 +39,6 @@ email 邮箱
 [![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)](mailto:chen_skin@icloud.com)(不常用)
 
 ### 绝对不是在摸鱼o(´^｀)o 
-
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=DTpeel&theme=xcode" /> </div>
-
 
 
 > this is my friend，Do not follow?
