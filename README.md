@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB3BF&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&width=435&lines=%E6%97%A9%E5%AE%89%EF%BC%8C%E5%8D%88%E5%AE%89%EF%BC%8C%E6%99%9A%E5%AE%89%E5%96%B5%EF%BD%9E+%E5%85%B3%E6%B3%A8%E6%88%91%E8%B0%A2%E8%B0%A2%E5%96%B5(*%2F%CF%89%EF%BC%BC*))](https://git.io/typing-svg)
+
  <!--小图标 -->
 <p align="center">
   <a href="https://github.com/chenskiro" target="_blank" rel="noopener noreferrer">
@@ -47,6 +49,7 @@ email 邮箱
 
 **[Anda Toshiki](https://github.com/andatoshiki)**
 
+<img src="https://cdn.jsdelivr.net/gh/chenskiro/chenskiro/profile-3d-contrib/profile-night-rainbow.svg" />
 <!--
 
 
