@@ -42,8 +42,6 @@ jobs:
           plugin_starlists_limit_languages: 8
           plugin_starlists_only: Awesome
 
-          plugin_topics: yes
-
 
       # 🈷️ Languages activity
       - name: Indepth analysis
@@ -192,6 +190,7 @@ jobs:
           filename: github-metrics/metrics.plugin.topics.icons.svg
           token: NOT_NEEDED
           base: ""
+          plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: icons
           plugin_topics_sort: activity
