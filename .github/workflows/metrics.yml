@@ -1,5 +1,5 @@
 # 开源项目地址 https://github.com/lowlighter/metrics
-# 配置文件地址 https://github.com/sun0225SUN/sun0225SUN/blob/main/.github/workflows/metrics.yml
+# 基于配置文件二次修改 https://github.com/sun0225SUN/sun0225SUN/blob/main/.github/workflows/metrics.yml
 
 name: Metrics
 on:
@@ -41,19 +41,10 @@ jobs:
           plugin_starlists_languages: yes
           plugin_starlists_limit_languages: 8
           plugin_starlists_only: Awesome
-          
-      # 📅 Isometric commit calendar
-      - name: Full-year calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/isocalendar.fullyear.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          # 不添加基础信息
-          base: ""
-          # 使用此插件
-          plugin_isocalendar: yes
-          # 设置成显示整年
-          plugin_isocalendar_duration: full-year
+
+          plugin_topics: yes
+          plugin_topics_mode: mastered
+          plugin_topics_sort: activity
 
       # 🈷️ Languages activity
       - name: Indepth analysis
@@ -102,16 +93,7 @@ jobs:
           plugin_habits_facts: no
           plugin_habits_charts: yes
           config_timezone: Europe/Paris
-          
-      # 🎟️ Follow-up of issues and pull requests 
-      - name: Indepth analysis
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/followup.indepth.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_followup: yes
-          plugin_followup_indepth: yes
+        
           
       # 🎭 Comment reactions
       - name: Comment reactions
@@ -134,7 +116,7 @@ jobs:
           plugin_people: yes
           plugin_people_limit: 500
           plugin_people_size: 36
-          plugin_people_types: followers, following
+          plugin_people_types: followers
           
       # 📓 Featured repositories
       - name: Pinned repositories
@@ -203,3 +185,14 @@ jobs:
           plugin_stackoverflow_user: 1
           plugin_stackoverflow_sections: answers-top
           plugin_stackoverflow_limit: 2
+          
+      # 📌 Starred topics
+      - name: Icons
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics/metrics.plugin.topics.icons.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
