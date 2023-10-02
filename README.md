@@ -10,17 +10,24 @@
   <a href="https://github.com/chenskiro" target="_blank" rel="noopener noreferrer">
     <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="made with markdown badge" />
  </a>
-    </a>
 
-
-
-</p>
-<p align="center">
-    <img src="https://stats.toshiki.top/api?show_bg=1&username=chenskiro" alt="andatoshiki's profile readme stats"></img>
+   <img src="https://stats.toshiki.top/api?show_bg=1&username=chenskiro&theme=solarized-light" alt="chenskiro's profile readme stats">
+   <img src="github-metrics/achievements.compact.svg">
+    
 </p>
 
 
+## 我的关注者
+感谢这些用户的关注，谢谢你们 (◍•ᴗ•◍)❤
 
+![](github-metrics/people.followers.svg)
+
+
+“ Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover. ” 
+
+“二十年之後，更令你懊悔的不是你做了什麼，而是你沒做什麼。所以解開帆索，離開安全的港灣，趕着航程中的信風，去探索，去夢想，去發現。”
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chenskiro&layout=compact&theme=omni)
 
 ## contact me 🌏
 联系我
@@ -64,8 +71,8 @@
 ### 绝对不是在摸鱼o(´^｀)o 
 
 <div>
-    <img src="github-metrics/base.svg" width="80%" >
-    <img src="github-metrics/metrics.plugin.steam.svg" width="80%">
+    <a href="https://github.com/chenskiro?tab=followers"><img src="github-metrics/base.svg" width="80%" ></a>
+    <a href="https://steamcommunity.com/profiles/76561199205543917/" ><img src="github-metrics/metrics.plugin.steam.svg" width="80%"></a>
 </div>
 
 
@@ -82,6 +89,9 @@
 > 这是我好友，不关注一波吗？
 
 **[Anda Toshiki](https://github.com/andatoshiki)**
+
+![](github-metrics/stars.svg)
+
 
 <!--
 
