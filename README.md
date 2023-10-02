@@ -29,6 +29,11 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chenskiro&layout=compact&theme=omni)
 
+![](https://img.shields.io/badge/Ciallo%EF%BD%9E(%E2%88%A0%C2%B7%CF%89%3C%20)%E2%8C%92%E2%98%85-yellow)
+![](https://img.shields.io/badge/Hatsune_Miku-39c5bb)
+![](https://img.shields.io/badge/creeper？-green)
+![](https://img.shields.io/badge/我是高性能的嘛-47a0be)
+![](https://img.shields.io/badge/晚安，詩音-fbf8ef)
 ## contact me 🌏
 联系我
 
