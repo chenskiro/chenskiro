@@ -42,7 +42,21 @@ jobs:
           plugin_starlists_limit_languages: 8
           plugin_starlists_only: Awesome
 
+      # 🕹️ Steam
+      - name: Recently played games
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.steam.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam: yes
+          plugin_steam_user: "76561199205543917"
+          plugin_steam_sections: player, recently-player
+          plugin_steam_recent_games_limit: 3
 
+
+      
       # 🈷️ Languages activity
       - name: Indepth analysis
         uses: lowlighter/metrics@latest
