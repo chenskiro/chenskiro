@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        45 hours played
+                                        46 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -76,7 +76,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 5 Jun 2024
+                                        Last played on 6 Jun 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -85,32 +85,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            36 / 320 achievements unlocked
+                                            38 / 320 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwMGAgQF/8QALRAAAgIBAgQDBwUAAAAAAAAAAQIDBBEABQYSITETIlEHFBUyQXGBI0JSYaH/xAAYAQACAwAAAAAAAAAAAAAAAAABAgADBf/EABsRAQACAwEBAAAAAAAAAAAAAAEAAhESITFB/9oADAMBAAIRAxEAPwAGqVjYavBXr+NPKFVERAWZiOw/38at8HAnhUve91meOINyMatcNGrfxMjDBP2GP71l7N64SCxeVOeywWtD28qhAznJ7ZyMn0XSCLVe7w/tcMFlEs7a7rZkhBmEsUpOYwuMPznAx1GQMa1QrUG0UCoL2F17haFYJJ9umeWOM4YzwAJn051HQ9vpqtzRKiTJJCqSIGDKVGVONLN3Y0msWib6UYZYjUrwTxMhrkEM8eCQMgLnJOTzAnOdGnE1aahuJhslHcxsBIhysi4JVgfwRoWapkILa284zo8EWR8X22jNclpQTTKWmiYAoDHjPUEYBAyD9Dq7WLl7ZrsMCUaO47Rd/VG6wqYlljGCpHhFgrgnI6DqOw0TsIZa6K0ifKv7hkHGtfM8KPHBYdYn+ZIp+VW+651W9i52+xI37iuWwm4RR7bRnrxxG5Vt2A84sMGVZJCGOMkN2PblAPbR9evW91vSWr8xmlWIgnlChVCkKqqAAoHXAAA1DBJZSq9RLJhqucvEZvKx9SoODqcCGKvIqyKSVbJ5hknGoAEKgYJ//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcEAwX/xAApEAACAgECBAYDAQEAAAAAAAABAgMEEQUGABITIQciMTJBcRRRYVJy/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgEAA//EACERAAIBBAICAwAAAAAAAAAAAAECEQADMVEEEkFhgZGh/9oADAMBAAIRAxEAPwCN7U2zc3LJPFpsER/FqmzPI4GEUL2H2x7Af3hzU8LdOpRhdx6uwvY89TTYUfpH/LSP2J+hx6G22fbO0azJJDWuPDHHYj7H8khnkikB+UAlib+sVB9vFN8MdmLqNSW1dtRzQSKOdOk5IbmDA9QgKxyCGxn3HvnhHlNlBM41A8+5rndDWwAgljuolrewNMjiZtG1KbrgHlhvwoBIf0HT0P2DwY3bti1tqWCK8kLR26i26s8Y8ssbJnt/QTgj4+iDxavEbZl/SnCQs12CUycnSicOAnrzAj9AnIJBwSOBECSa/wCHGoV3speuU+tWqxvjNRQ6Ts5b1CGONyD++ZR6gArzSY7rBGdEHz6j9mjZLXAQ6ww1WKlZi1XZ1ajp5Fi3FVWSQTt56yQxyO0QJ9ysWLKc9gOU9wOEPhvv7UduR1zGsd/Sl5sREASRk/Cydyv/ACcrj4+eJTp2qSU6ksEbwvXsRBJYZe6ny4yO+VOMjI+Oxzx01vVFuWYblGT8KwtdIZRG5BlZARzll7EkcoOcemfngvxW7QpjRz8GreBugFW6sKuO9/Eqs+27cVNLtVponR54rDxRIGGDH03J6hxkZAX17YA4C3I123sm9p2rMtPVJ67zKld8vbSykciwsR7VjKAsc98AD1PBLbesV9MsWr2pMNTtSVJK8CSOxMDvgGTmbsCF5gMA+7I9OMmravJqFeOOV4Y4K8XThhiPlUBeUE5OWOABk/AwMcReK5aGMjePqtaBtgljJr//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Archimedes Bath</div>
-                                                <div class="unlocked">2 Jun 2024</div>
+                                                <div>Elixir of Immortality</div>
+                                                <div class="unlocked">6 Jun 2024</div>
                                             </div>
-                                            <div class="description">Get 5 Tech boosts in 1 turn</div>
+                                            <div class="description">Win a regular game as Qin Shi Huang</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAABwQGAQIDCP/EACwQAAICAgECAwgCAwAAAAAAAAECAwQFERIABhMhMQcUIjJCUWFxI0EzgbH/xAAXAQEAAwAAAAAAAAAAAAAAAAABAAIF/8QAGhEBAQEBAQEBAAAAAAAAAAAAAQIAESFBEv/aAAwDAQACEQMRAD8ABqlY2GrwV6/izyhVREQFmYj0HVxwvs9tZJnjiis3rEf+SLG11dIj9mlb4d9b+y7F+/WYlR/DsXZo6EcuvOKPiGlYfnX/ADpQzWTneePC9uCajLTlEcFaLkIvC5/FpvRrJXZZjsaJVTz2ToNEh5iZA64k7k7GuYNVa5Uu0uZ0nv8AXURufsJU+EH8HqpzRKiTJJCqSIGDKVG1OuvQdrM2cfn8rSy/O4t21MkVOUMa8lUyfCk5+UMRvwm9V2OZ4ldDHtDxI7f7uyOMjd3gi2IWf5jEyc0DfkAlegsr5ipE6bHaGffAZHHWxyKVZ47LIv1oVCuP3rpPzHcWXoWBkKFuzfWdleCKOy5rtCWG51X0JCnzi+k7b5fICYaNoY/5FDBV0Qw2DrqZiO4s1ggyYq+FgLcjESrx7+/BvQ/ros/QaTXTjmFs3mspm7zGzZo+7WZhHH7zIteWurlRNIB5IFAPl5eLr+tMSTd8Zpe5O8snkoGZq2uETEa5IqcFOv635nrjmO5c7nYTBksiBWJ20ScY0b9qvzf7PUBRDFXkVXUkq31DZOuqxHPXFV8N/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcABAUC/8QALhAAAgEDAwMDAgUFAAAAAAAAAQMCBAURBhIhABMxIkFRB2EUFUJxgSMyQ1Kh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQADBP/EACQRAAEEAAMJAAAAAAAAAAAAAAEAAgMRIUKBEiIjMTJBkaHw/9oADAMBAAIRAxEAPwBOaQ0xWaorfwdrQqU1oL2smAIrgI5JJ+/gdGNr+mCmUvdr3sazbmQpQtaofbuTHqx8gY6JNB0otOkqOEjGndVqWqpMfNQkyLo7T8GBwT7ECPz1dut4FYig7NVa0x/MDlDUEzUvgCTSBgqO3G32AH8dkL9sGR3TdDTukQgAFyXl30RQIXmiqytuDtjUdti5ke2+H9v8gjrB1jper0tXyorkpO5iA9DljMGrlHIlE/8ACPYj9umLcGxCdUmNdY59+rXOEVUZjOojuyTTnHohzkj7n9zLwo3r6Y1MWOFZW0S5pRvA3UaVy70t0vONgAj85288dU0oaBI0bt0dRz0UYgbIWXp24is0pQ0Vtd3K9aQTB3+CK4znOESfMZ5yOfScg+3XdDfgbJYt89OmcrnITg5c4uhE49Tzg/0zjwP9R88L61XdtvTOCGqKnLEGqZgxlx5x7HzyMHBx1bu92o7iEOMQh6kRTMQxLumOcSJzycYGSP0jz1mxjmcPLd2kSgjFHV5vy2W/VpU7TJkKqBX2VTLHDdkypcjiPPOfk/GTNTTFh0XXWe6ugq6lMswpiSaoOEWxjMjgQXzkZ9REccZ6DrBe7dZhV1HbjW1VRSyp1ho29gzI3SBz527o5A/UcEdZt5vLrpAfiXKC1LMFKWQIxG3HjPJ8cnnAHQ+NzyGZRj6+8oMoAwX/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Gift From the Storm God</div>
-                                                <div class="unlocked">8 Jan 2024</div>
+                                                <div>Dirty Dozen</div>
+                                                <div class="unlocked">6 Jun 2024</div>
                                             </div>
-                                            <div class="description">Receive a Strategic Resource from Hattusa</div>
+                                            <div class="description">Win a regular game on a Huge Map</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+34 others...</div>
+                                            <div class="description ellipsis">+36 others...</div>
                                         </div>
                                     </div>
                                 </div>
