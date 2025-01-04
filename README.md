@@ -11,14 +11,14 @@
 
 <!-- 统计卡片 -->
 <div>
-  <img height="180em" src="https://stats.toshiki.top/api?show_bg=1&username=chenskiro&theme=solarized-light" alt="chenskiro's stats"/>
+<!--   <img height="180em" src="https://stats.toshiki.top/api?show_bg=1&username=chenskiro&theme=solarized-light" alt="chenskiro's stats"/> -->
   <img height="180em" src="github-metrics/achievements.compact.svg" alt="achievements"/>
 </div>
 
 
 ---
 
-### 📝 名言警句
+### 📝 ~
 > " Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover. "
 >
 > "二十年之後，更令你懊悔的不是你做了什麼，而是你沒做什麼。所以解開帆索，離開安全的港灣，趕着航程中的信風，去探索，去夢想，去發現。"
@@ -97,8 +97,14 @@
       </a>
     </td>
   </tr>
+  <tr>
+     <td>
+        <img src="https://github.com/chenskiro/chenskiro/blob/main/github-metrics/stars.svg" width="100%">
+       </td>
+     <td>
+<img src="https://count.getloli.com/@chenskiro?name=chenskiro&theme=rule34&padding=7&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto" />
+      </td>
+  <tr>
  </table>
       <!-- 3d 热力图 -->
-      ![](./profile-3d-contrib/profile-night-rainbow.svg)
-      
-      ![](github-metrics/stars.svg)
+      <img src="https://github.com/chenskiro/chenskiro/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
