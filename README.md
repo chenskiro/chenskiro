@@ -92,6 +92,7 @@
       </a>
     </td>
     <td>
+<!--       steam 游戏数据 -->
       <a href="https://steamcommunity.com/profiles/76561199205543917/">
         <img src="github-metrics/metrics.plugin.steam.svg" width="100%">
       </a>
