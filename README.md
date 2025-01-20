@@ -11,7 +11,7 @@
 
 <!-- 统计卡片 -->
 <div>
-<!--   <img height="180em" src="https://stats.toshiki.top/api?show_bg=1&username=chenskiro&theme=solarized-light" alt="chenskiro's stats"/> -->
+<img height="180em" src="https://stats.toshiki.dev/api?show_bg=1&username=chenskiro&theme=solarized-light" alt="chenskiro's stats"/>
   <img height="180em" src="github-metrics/achievements.compact.svg" alt="achievements"/>
 </div>
 
