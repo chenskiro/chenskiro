@@ -38,7 +38,12 @@
   <img src="https://img.shields.io/badge/我是高性能的嘛-47a0be"/>
   <img src="https://img.shields.io/badge/晚安，詩音-fbf8ef"/>
 </div>
+
+<img src="https://count.getloli.com/@chenskiro?name=chenskiro&theme=rule34&padding=7&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto" />
+
 </div>
+
+
 
 ## 联系我 🌏
 ### SNS
@@ -106,9 +111,12 @@
         <img src="https://github.com/chenskiro/chenskiro/blob/main/github-metrics/stars.svg" width="100%">
        </td>
      <td>
-<img src="https://count.getloli.com/@chenskiro?name=chenskiro&theme=rule34&padding=7&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto" />
+       <img src="https://github.com/chenskiro/chenskiro/blob/main/github-metrics/metrics.plugin.anilist.svg" width="100%">
       </td>
   <tr>
  </table>
       <!-- 3d 热力图 -->
       <img src="https://github.com/chenskiro/chenskiro/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+
+![Alt]( "Repobeats analytics image")
+<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
