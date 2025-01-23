@@ -121,4 +121,4 @@
       <img src="https://github.com/chenskiro/chenskiro/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
 
 ![Alt]( "Repobeats analytics image")
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
+<img width="120%" src="https://repobeats.axiom.co/api/embed/d1eaec953ec3fc343f9fccd7e0de12848329cd55.svg" />
