@@ -95,20 +95,22 @@
 <table>
   <tr>
     <td>
+<!--       基础资料 -->
       <a href="https://github.com/chenskiro?tab=followers">
         <img src="github-metrics/base.svg" width="100%">
       </a>
     </td>
     <td>
-<!--       steam 游戏数据 -->
-      <a href="https://steamcommunity.com/profiles/76561199205543917/">
-        <img src="github-metrics/metrics.plugin.steam.svg" width="100%">
-      </a>
+      <!--        最近star -->
+        <img src="https://github.com/chenskiro/chenskiro/blob/main/github-metrics/stars.svg" width="100%">
     </td>
   </tr>
   <tr>
      <td>
-        <img src="https://github.com/chenskiro/chenskiro/blob/main/github-metrics/stars.svg" width="100%">
+<!--       steam 游戏数据 -->
+      <a href="https://steamcommunity.com/profiles/76561199205543917/">
+        <img src="github-metrics/metrics.plugin.steam.svg" width="100%">
+      </a>
        </td>
      <td>
        <img src="https://github.com/chenskiro/chenskiro/blob/main/github-metrics/metrics.plugin.anilist.svg" width="100%">
