@@ -55,6 +55,18 @@ jobs:
           plugin_steam_sections: player, recently-played
           plugin_steam_recent_games_limit: 3
 
+      # anilist
+      name: Favorites anime and currently watching
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.plugin.anilist.svg
+        token: NOT_NEEDED
+        base: ""
+        plugin_anilist: yes
+        plugin_anilist_medias: anime
+        plugin_anilist_sections: favorites, watching
+        plugin_anilist_limit: 2
+
 
       
       # 🈷️ Languages activity
