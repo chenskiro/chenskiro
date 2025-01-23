@@ -63,7 +63,8 @@ jobs:
           plugin_steam: yes
           plugin_steam_user: "76561199205543917"
           plugin_steam_sections: player, recently-played
-          plugin_steam_recent_games_limit: 3
+          plugin_steam_recent_games_limit: 5
+          plugin_steam_games_ignored: 431960
 
       # anilist
       - name: Favorites anime and currently watching
