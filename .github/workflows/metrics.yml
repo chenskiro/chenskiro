@@ -62,8 +62,8 @@ jobs:
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
           plugin_steam_user: "76561199205543917"
-          plugin_steam_sections: player, recently-played
-          plugin_steam_recent_games_limit: 5
+          plugin_steam_sections: player, recently-played, Most-Played
+          plugin_steam_recent_games_limit: 4
           plugin_steam_games_ignored: 431960
 
       # anilist
