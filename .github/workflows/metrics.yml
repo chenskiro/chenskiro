@@ -15,7 +15,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      # 基础信息（顺带了几个小插件）
+      # 基础信息
       - name: base
         uses: lowlighter/metrics@latest
         with:
@@ -43,9 +43,14 @@ jobs:
           plugin_starlists_only: Awesome
           # 📌 Starred topics
           plugin_topics: yes
-          plugin_topics_mode: icons
+          plugin_topics_mode: labels
           plugin_topics_sort: activity
           plugin_topics_limit: 0
+          # 📰 Recent activity
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create, wiki
 
       # 🕹️ Steam
       - name: Steam
