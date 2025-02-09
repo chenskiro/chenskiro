@@ -41,7 +41,12 @@
 
 <img src="https://count.getloli.com/@chenskiro?name=chenskiro&theme=rule34&padding=7&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto" />
 
-</div>
+## 自制 Minecraft 皮肤
+
+<img src="https://github.com/user-attachments/assets/7b761c0f-c810-4a6e-9d48-e2fdda965f83" alt="Minecraft Skin" width="75%" />
+
+
+</div></div>
 
 
 
