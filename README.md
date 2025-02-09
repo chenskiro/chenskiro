@@ -43,7 +43,7 @@
 
 ## 自制 Minecraft 皮肤
 
-<img src="https://github.com/user-attachments/assets/7b761c0f-c810-4a6e-9d48-e2fdda965f83" alt="Minecraft Skin" width="75%" />
+<img src="https://github.com/user-attachments/assets/ca7480c5-c834-436b-ac13-b33419d4d15d" alt="Minecraft Skin" width="75%" />
 
 
 </div></div>
