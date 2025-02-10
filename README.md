@@ -43,9 +43,20 @@
 
 ## 自制 Minecraft 皮肤
 
-<img src="https://github.com/user-attachments/assets/ca7480c5-c834-436b-ac13-b33419d4d15d" alt="Minecraft Skin" width="75%" />
 
+<table>
+  <tr>
+  <td>
+风又音理 Kazamata Neri
+<img src="https://github.com/user-attachments/assets/ca7480c5-c834-436b-ac13-b33419d4d15d" alt="Minecraft Skin"  />
+        </td>
+        <td>
+二阶堂真红 Nikaidou Shinku
+<img src="https://github.com/user-attachments/assets/c73f293d-c93a-4384-8754-024e16e1e61d" alt="Minecraft Skin"  />
+    </td>
+  </tr><table>
 
+  
 </div></div>
 
 
