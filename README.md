@@ -3,17 +3,22 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB3BF&center=true&vCenter=true&repeat=true&width=435&lines=%E6%97%A9%E5%AE%89%EF%BC%8C%E5%8D%88%E5%AE%89%EF%BC%8C%E6%99%9A%E5%AE%89%E5%96%B5%EF%BD%9E+%E5%85%B3%E6%B3%A8%E6%88%91%E8%B0%A2%E8%B0%A2%E5%96%B5(*%2F%CF%89%EF%BC%BC*))](https://git.io/typing-svg)
 
+
 <!-- 徽章区域 -->
 <p>
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love badge" />
   <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="made with markdown badge" />
 </p>
 
+<img src="https://cards.jerryz.com.cn/api?img=4&color=17%2C159%2C107%2C1&quote=%E5%96%B5%7E+%28%E0%B8%85%C2%B4%CF%89%60%E0%B8%85%29&github=%40chenskiro" width="75%">
+
+
 <!-- 统计卡片 -->
 <div>
 <img height="180em" src="https://stats.toshiki.dev/api?show_bg=1&username=chenskiro&theme=solarized-light" alt="chenskiro's stats"/>
   <img height="180em" src="github-metrics/achievements.compact.svg" alt="achievements"/>
 </div>
+
 
 
 ---
