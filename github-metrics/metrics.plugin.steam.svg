@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1034" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1065" class="">
     <defs>
         <style/>
     </defs>
@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            2.64k hours played
+                            2.65k hours played
                         </div>
                     </section>
                 </div>
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        144 hours played
+                                        153 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 13 Jun 2025
+                                        Last played on 14 Jun 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            76 / 115 achievements unlocked
+                                            79 / 115 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYBBwIDBP/EACoQAAIBAwMDBAAHAAAAAAAAAAECAwQFEQAGIRITMSJBYZEHFCMlUXGh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQQCAwX/xAAiEQABAwMEAwEAAAAAAAAAAAACAQMRAAQSITFhgROR4fD/2gAMAwEAAhEDEQA/AKXsm36Wa209RUxxBXjVizgDzp427sWmuAWU21Y6U4Hemp8Kf6yPHzpcs0tXHQW6oppI1jWBB3WjDGL04PBzx8gZ+tP9JuHekVn7S1FNUUMqBIXkiUr4yArLjk/OtFt62YUfIkrzt9pPEzmKG7t/Duns8sxokoqxIkDtG0KDI9+R4PB+9V7uWy0cVvlq6OnRUMZYYTxx/mrHpd43GNoFudoikEWTIaZiGZSxyG+sefGlPc1XR1FNdnopB2KiKSXtHP6DHPp5Hv8AX3pm4G3ebzYVFVN407j8lQHNC1qdu216ay2+YvIqywq4yOGyOcaeNpWuarSorAP25Ynjkf2kLLhQP5wSG+MaRUvVsnttp7l3hBipoo5aeZOoL0xhcceeQeOME+dHI960LRJSC7/l7eka9cKkMevwwQk45GSCeBnGNL3NmRhDRDGm5J36q5pMSyKa13J5au5zRUp7fPUQR1ZyTxj35zoDuWhaCirZKuRlkSF06Y4ug5x4bXYl6tUD1WLpTTl1MazDjp9QYNg8nOMexGW85zrHd19tNypZ2p7oCXojGyuAT3FUgYwfJAUe4GSfYaLNgDTWSmiGnKUCUyOYWK//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYEBf/EACsQAAEDAgQFBAIDAAAAAAAAAAECAwQFEQAGITEHEhMiURRBYYEycYKSwf/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBQIE/8QAIxEAAQQCAQMFAAAAAAAAAAAAAQACAxEEIVEFMUETImGhwf/aAAwDAQACEQMRAD8AiuHGSqRV4tJcrLccCQlPIAlIFra3N7k7b+fjChNyhlah1JlDVFpUvnTq09HbUb+3tgpyRlZyrQIkKa+/HdlxUOQnHCQyvS/KT58frFQ3wyedgLbcUlmqR7hbIIPURp3ggm1rjtIG2KJ6njMIaG+2tjW/m+65RA83S35yyxQPVNqmUCDT2SBcR2EJKk+9rDfBTmOi0yKxU3KemKltDZKWXAFOWIPKQbbganb/ADF/Xsns0iMlhtDcuoO7gnRsH3t53wfZjpgiU2QltS1qDKi5bUA2xp3VIJovTEQuqB/efvaIhcx1uKsOHdVqdLotLCHOpT1LZu1IQFpCjYkoNu02BP1hbpFBzMuqRvXop7VNaLa0rTZbji0kFSr2v37m97An94H8s5ioUODl6JMnsdJmKFvWeHa4pAAB13Tv/IjTXCrRuIuW3AiQ9WKc2Gm1ANrkp5lX2GpvoBr5JxGypDG8iEdxR0m4oLmXJzpcvPCa3QzNU4xEdo76XCXCE9QLXflUTvdBPxtb5JLmCI6vLkt885ZCHBdPkJvYk76EH7xa8R85UeoS5SYlTiOhWxEhKgm19jfXz94jxXqdIyvW4Tk6Mlb0Za2k9UfmEntHyoEf1A9xhmM8yECXwKHhDJDg24+Ra//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Funkytown</div>
-                                                <div class="unlocked">7 Apr 2025</div>
+                                                <div>It Can Talk?!</div>
+                                                <div class="unlocked">14 Jun 2025</div>
                                             </div>
-                                            <div class="description">Build or encounter a glowing mushroom field above the surface.</div>
+                                            <div class="description">Build a house in a mushroom biome and have the Truffle move in.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcDBP/EACwQAAIBAwMCBQQCAwAAAAAAAAECAwQFERIhMQAGBxMiQVEUI3GBMmFiscH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAgYH/8QAJREAAQMDAwMFAAAAAAAAAAAAAQIDEQAhQQQSExQxoVFhkdHw/9oADAMBAAIRAxEAPwAB2lZ7Tc7dbGqrdSqghjVn8obkj1MTyxOc78dMKeyWAecVsdt8uYlFZqdDpVACdzxn3bkY/vrk8Pnhl7WsVKKdRLpVmcD1MSR6i34GNPHvz08qbZSRWqCnl0rWoJJHhz6jCcISccbnHyf11iNU+vlUkE9zmumAMIabSpAkgYHzRqftew0V+YVtlolo4/IEqmiCsPsR6iARzqcEjkEjPPU+7msdsttFcpBbqbV9NKI/tjCPjnb4HH946r726Wuhp3mmknmmLRyuWZy0wcayfYaoxAQB7Dbg9EvFOliSzXmOPL4jeVHxjI07/wCgf30qNQepiTBjOLfdG2hksqQUgq2kdvTNbeEgiahsMzqCFECEe2ChG/5IHT8VMtzp/qpIlUtGysyjdmmEUoyf8Y1jQfOCdsbxTsHum2Wi00tPU3CKMNDG2RIAyMMY/YI6oFL3hYGiDU17tcPt5Mta8AXknS0TZ05OQhBAJOCOOj1DDnIsAETmMUD5QoIc3CwGfaltPSPb6j6iFT5iVNEGUb6XPmrJqA4IiYE54GPjoh4jU9RUdu9w3GKFEolp5oslgpDFTsv6A/OSOtKrvaxK0KRXu1GY+mPRNiGn1fzbJYszHfLncjbAGQRXeXc9sXt+5UlNdqSuSaGURYkGoEgjOkEgE/8AduobYXyICQbQJg3vUtxsW4pYkjxH7z3r/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQYDAgT/xAAqEAABAwMCBQUAAwEAAAAAAAABAgMEBQYREiEAExQxQQcVIjJRM0Jxof/EABcBAQEBAQAAAAAAAAAAAAAAAAIDAAH/xAAcEQEAAgIDAQAAAAAAAAAAAAABAAIRMQMSISL/2gAMAwEAAhEDEQA/AAoUGLDt6jznqE37Q5ToyuqTR4zml3lDmFZWhSyCQVazgb/mCc6uKGtDbsSl2tMygNOGMy20tSMElRRuA4M51DSNiCDkYvqLUfZfRulylx1JzTWEpW45ka1oSlJVv9ckbeBwFcFi9Pab9Qo0xb9acHMWW9Ki9nuAT2GN9vzYeOMvYw6jrUNTm33LbqNNDr1mUCYGfg7Jj8pClDP25YRp1Y7jUAT2wOxF5QbVuS2qsq2LeYiuQIDjrsgsNtKZKcqGvRkBWAQkDJVqOcBOeKmTRbFl1KkogwapGp5iqE16M8pmOUpQr+Y4ypzUB5Hc6jtjiQiQ67RbTu5mmU3qbffgvOFl11KFtNFpSG5JCsYUoIUrABJ0kEfU8dTt4wIU+jcvbJpbVa9PqS1LdMpRpkdsxwAG208sYBz+jBPElQZtPstM6rVSbJ9pMlUSHDQeY46W9ln5H6g7Yz4278Jemt5UGDadIZl1unx0sxG0mL1CEqU5pAJXk7f5wRe861FpbaqFTp86lPyTJ1wJrZfguLPz0jfWg9yPHjxwJXMwrFStly6F1f36otR2HY60shttQcK0E6UKB1BA21jGxyDurh5NUXUfTe6GJUXpqo7TpMxagciSwEkJ3/qWwtKSg475GSTgKXU/SaPAWuFAY6tlBU2pUxxS1LCScnCwD8hj/v5x54120Vq16vAcqkN2XNoT7CVpUE4cDZVhRPlWkAYOScZB2IdZPlBPJ//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Hot Reels!</div>
-                                                <div class="unlocked">7 Apr 2025</div>
+                                                <div>An Eye For An Eye</div>
+                                                <div class="unlocked">14 Jun 2025</div>
                                             </div>
-                                            <div class="description">Drop a lure in a pool of lava for a pre-fried haul!</div>
+                                            <div class="description">Defeat Deerclops, the chilly one-eyed monstrosity from a foreign land.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+74 others...</div>
+                                            <div class="description ellipsis">+77 others...</div>
                                         </div>
                                     </div>
                                 </div>
