@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="963" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="970" class="">
     <defs>
         <style/>
     </defs>
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        15 hours played
+                                        18 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 2 May 2026
+                                        Last played on 3 May 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,33 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            56 / 100 achievements unlocked
+                                            69 / 100 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUHBP/EACoQAAICAQMDAwMFAQAAAAAAAAECAwQRBQYSACExQVFhBxQVEyJCcaGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIEAP/EACERAAIBBAICAwAAAAAAAAAAAAECEQADITESQVHwcaGx/9oADAMBAAIRAxEAPwBLtjaCw7cg1O5TH6wgHeKJWHDhyJ7juvz64yck9GzpW3p11HU6lKg9yjCbHFay8nXOGIHjIB9umu21v0fpNQptbhbVbEEQaLmSrqQq8A3uRjJHjv11R0tL0bSpqlGg0lubnGbDojM3MgElh6Ad8Y9OoeaqMAVQih2kN9/lCdf21pmjzwam2iVZjLCsjyrWRjG2B2ZcYBx646r69tA2dsHVqlRWklr5zLCq8UKcgTgdh898ZyMEdajbr17mkiFq8b0uBBRQpVQB6k+T/XQ7cbPrv0u1KnolqFbdeu5hhZ+HBeDDgT8DkVPjx0pvrcJ5JE6rGy6AMG1ujn0/S9b2HpsFt5PuDUBLAZZlIyo+DjiM+w6lwx69+N1iS3qxrz05gqRG0WeX15BT/H/vp1W2NvTTaWm0q9uem1n7dFkhkYKp4gDIJ8Y/zJB6Vz6/si5FU1C1e0bioMkqSWUJRk7nsPbA8ec9C1fc8pWez78UrWVsxGATAz731qsxi3ZuDVtD0vSKNsJasLJDbtyL+9F5ZdUPoScLk+/Y9Wd3R2tD2JdoUJpfv3oyFXYAOFAy49z2LAE+Aelv5XZNeCxqdPUtJaMqJIkS2oMru2clT4JJJ+DnoLuzdi6hZukzafCsVWRKtaKVZMM4Kl2I85/3AA79GVuAEYjMHc9VUhIJnON+K//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwQGAwX/xAAqEAACAgEEAQIFBQEAAAAAAAABAgMEEQAFEiEGMUEHExQVgSJRYXGRI//EABgBAAMBAQAAAAAAAAAAAAAAAAADBQIE/8QAIhEAAQMEAgIDAAAAAAAAAAAAAQIDBAARIUESEzGBUbHw/9oADAMBAAIRAxEAPwC3YNkVaUMuIBcjiVGRIlYkFQeiR2O/zjJydUN4FM9lbkPjKG0M/wDT7eFPfROCAue/UjXn+Fy2DT2WKy4W5JWrRupbvkQAPT348Tpp8n3WTdVl2nbofqGjd47Aaz8sYXHqV7PryxkdAn+NdrMdsNNngDcZP7VYcW4VqF7CiofDq1HYl3Oz45ThEac5LEsEQIAHrxzjOB7DUO/bOslN5UihaxNCwRnjUAqAxHoOhkEfx6jB0ibt5e83il2gyxx2VqJ8wB2fiHkK5De6lRkZ7/vWK8/v3bPjFyGC0lqevRljhaPChv0nJHQ74lv80SIyQypRbAPvFDTquwJ5EisFt165Th2Ka2zPYip155GI7AB/Ry/HEaYru3vevWty2C0lWK+iTy1n92IyJQVIZC3EZHYIA6zomW+Z40Svb2759mjFDKkrovEoFBI5e2FHWeie+xqur5jbopBt0G/7MLQjEIKzF3wCSBzI4KfzqnHkRjFaHYAoDIv9jVjUmSmaJCyhBKb4po8e2KKOtvEVmY2be6EfWSSdA4GFEaDAQL7Dv9zk6JfiBQs7JJvu2bdZZpoqUrxsG5MBgEgnGOXEnP8Aes/JvlqxuUqt5ZUF0N2jXWAz+wbHD/DrutxK33CW1drSbi1eQAfUCXkXUrkkH0xnrOSQANLlORksOkPAkjx8nXrWNU6IqWXUhxsgbNf/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Inherit the Stars</div>
-                                                <div class="unlocked">2 May 2026</div>
+                                                <div>Way of the Swordswoman</div>
+                                                <div class="unlocked">3 May 2026</div>
                                             </div>
-                                            <div class="description">
-                                            </div>
+                                            <div class="description">Enroll in Gladius, the Swordfighting Track.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcDBAUA/8QAKxAAAgEDAwIFAwUAAAAAAAAAAQIDBAURAAYhEhMUIjFBUQcWgTJCcZGh/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQMAAgQF/8QAJxEAAgECAwgDAQAAAAAAAAAAAQIDABEEQcESISIyUXGx8BMxYYH/2gAMAwEAAhEDEQA/ALVjswSiilxAKyKFVZEiVsgqG4JHI5/OMnJ11HtKnuFxiqKW1UIm6iGqjRgInHmJ46c4PxnUWzRVyW2199glSKKDvFm4Xy8Eke/T08aeG3dxWW17cpovEgmJT3FVfN1ZJY4HzknVQYEjCm21atpjmbiVSR2pG1+2qS27iK1dstxqGHUlSKVSJFHAYe3xnjIOpL1a1npJpI44HqXidAzxqvAUt7DgcfjORg6cX1CsdFWWdbhThfDcSM0f7er0lT+xkehB0oN1x1dPtq5pTnrq/CTdplOA/lwSM+/T1caDGFoypADgekaioFewkHLr0NZ9joLwm27LXyyLO8lAjTRsSHIDAKpHv5WUgjJwD8aI9r7ws+3IHnrqeapnmfCP2hIEXA8vJwCTn+RjQxbr1HItDG1ZS93w0a48QsTwsqhSUZvQHgkDnJI4OtmzV21I73FLc7tZZo4+qSRlnK/oVWGUHGAV4J5JbScQ0ZhDrzgZeD2yPmung8UIR8U2+M/YBt7rRmPqPa7ht2soKGnqighanWN0C+oIABJ9v8A0CbmoLv8Aad3qoplhmioHaONCSwBOGAGOD0hiSceo+Rq3da/ai3ju2i8WeLuKsiTPUFyxcMSeg8DJPOOQRrIud/hEFfGKqmFQaeQY8QsrSsylQzlfb1IB5yAOToQuhh23HGRnl+DWk4mSN2YYfcnS9/6a/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYBBAIDB//EACcQAAIBAwQBBAMBAQAAAAAAAAECAwQFEQAGEiExExRBcVFhgRZC/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIFBP/EACERAAIBAwMFAAAAAAAAAAAAAAECAAMRIRJhcRMxQeHw/9oADAMBAAIRAxEAPwAvtjb0Rt0U7iEVkcSoyxxKeioPRI7Hf9xk5Ooj2fa6i6QywW+3++ZiA/t0B7BycYx4z3jWOw5albJahVkiq9pB6icgCcAA9+AeGGzp7s1wpoY6t0qk9PgJMjvk5+UA8g4+/rUBnIJsZWuABic/O1rVDfZDNbqAVitxZ/bITkAYOMY8Y7xrbuWxRNQTTQRwtUvG0YZ41AwFJ8gdDr+ZyMHTTuO601wFIkNZGYPTMjSj4cH/AL+VHf3940q7zlqv8xd4qUE1SUspQchnsMB34J4ZOdBHLEXMONJxK+17Vcp9oWWoq52eR6NHkUHjJgEBVPXeVKYxnoH8aOVVws9JbLbJbauarus5UzRyqUXrOfjGegvnx386XLJuGlaloIZq2nWoWnQEessZjZVCkqT4HjIHeSR50btd/wBrpd4mrrzaJEi5SOwn444KD2o+Bj+ltZ6nU1PoT1uIXRWRQz2487Q6bxZt0TzVNRTVNreKExwrAityYA9t0CT4H4/elfdtquFLse8y0dQyTLSPIq8uTgeCo66wobOfg/sauXC/bXS58rde7UokVZFlao5s/ME54nr7x4I0Hvu5aT2NfDFWU5q2gcY9ZZC5ZSoLEfHkgH8ADvTo1Qspqpn7vFSkiIQr35n/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Hard As Steel</div>
-                                                <div class="unlocked">2 May 2026</div>
+                                                <div>Noble Pastime</div>
+                                                <div class="unlocked">3 May 2026</div>
                                             </div>
-                                            <div class="description">Reach S+ rank Stamina.</div>
+                                            <div class="description">Reach lavish tea party level 5 at the garden.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+54 others...</div>
+                                            <div class="description ellipsis">+67 others...</div>
                                         </div>
                                     </div>
                                 </div>
